@@ -1,0 +1,47 @@
+img {
+    height: 150px;
+    width: 150px;
+}
+
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+.img {
+    height: 500px;
+    width: 400px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    font-family: fantasy;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+#contact {
+    background: fire-brick;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.contact1 h3 {
+    display: inline;
+    color: chartreuse;
+}
